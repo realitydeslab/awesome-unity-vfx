@@ -36,6 +36,10 @@ https://github.com/keijiro/SdfVfxSamples
 https://github.com/keijiro/DrumPadVFX
 https://x.com/_kzr/status/1920814708598157319
 
+## LaspVfx
+
+https://github.com/keijiro/LaspVfx
+
 ## BurstWig
 
 ![gif](https://i.imgur.com/z1HkqM2.gif)

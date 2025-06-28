@@ -31,6 +31,11 @@ https://github.com/keijiro/SplatVFX/blob/main/VFX/Assets/VFX.vfx
 https://x.com/_kzr/status/1164545247478603776 
 https://github.com/keijiro/SdfVfxSamples
 
+## DrumVfx
+
+https://github.com/keijiro/DrumPadVFX
+https://x.com/_kzr/status/1920814708598157319
+
 ## BurstWig
 
 ![gif](https://i.imgur.com/z1HkqM2.gif)

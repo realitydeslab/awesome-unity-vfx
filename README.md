@@ -26,6 +26,11 @@ https://github.com/keijiro/SplatVFX/blob/main/VFX/Assets/VFX.vfx
 
 [SplatVFX](https://github.com/keijiro/SplatVFX) is an experimental implementation of 3D Gaussian Splatting with Unity VFX Graph. 
 
+## SdfVfx
+
+https://x.com/_kzr/status/1164545247478603776 
+https://github.com/keijiro/SdfVfxSamples
+
 ## BurstWig
 
 ![gif](https://i.imgur.com/z1HkqM2.gif)

@@ -34,12 +34,18 @@ https://github.com/keijiro/SdfVfxSamples
 
 ## DrumVfx
 
+![image](https://github.com/user-attachments/assets/8545b738-fcda-4b98-97cd-5923b58ae465)
+
+
 https://github.com/keijiro/DrumPadVFX
 https://x.com/_kzr/status/1920814708598157319
 
 ## LaspVfx
 
 https://github.com/keijiro/LaspVfx
+
+LaspVfx is a Unity package that provides property binders for integrating
+LASP (an audio input plugin) with the Visual Effect Graph.
 
 ## BurstWig
 
